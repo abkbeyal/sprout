@@ -1,0 +1,8 @@
+Django==1.6
+South==0.8.4
+dj-static==0.0.5
+django-cors-headers==0.12
+djangorestframework==2.3.10
+pystache==0.5.3
+static==1.0.2
+wsgiref==0.1.2
